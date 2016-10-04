@@ -1,4 +1,4 @@
-# cs-bull-moose
+# Bull Moose
 
 Course: 3-D Graphics
 
